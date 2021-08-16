@@ -1,6 +1,6 @@
 # Matplotlib-for-Data-Visualization
 
-Matplotlib in Python: Data Visualization Plots &amp; how to use it ?
+### Matplotlib in Python: Data Visualization Plots &amp; how to use it ?
 
 In Matplotlib i am doing different types of ploting .
 
